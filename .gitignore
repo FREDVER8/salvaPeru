@@ -1,0 +1,21 @@
+# NetBeans
+/nbproject/private/
+/build/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+
+# IntelliJ / Eclipse (por si acaso)
+/.idea/
+*.iml
+*.classpath
+*.project
+*.settings/
+
+# Clases compiladas de Java
+*.class
+
+# Archivos del sistema operativo
+.DS_Store
+Thumbs.db
