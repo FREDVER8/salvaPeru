@@ -43,6 +43,4 @@ Importa el archivo database.sql en tu servidor MySQL local.
 
 ¡Ejecuta la clase principal FrMenu.java!
 
-Desarrollado por: Christian Torres Ibarra
-
-Recuerda guardar este contenido en un archivo llamado README.md dentro de la raíz de tu proyecto, y luego ejecutar git add README.md, git commit -m "docs: agrega presentación profesional al README" y git push origin main para completar la actualización en GitHub.
+Desarrollado por: Christian Torres Ibarra :D
